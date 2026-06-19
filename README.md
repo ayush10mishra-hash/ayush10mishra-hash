@@ -1,9 +1,5 @@
 # Hi, I'm Ayush Mishra 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0078FF¢er=true&width=500&lines=AI+%26+ML+Enthusiast;Building+Intelligent+Systems;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🧠 About Me
